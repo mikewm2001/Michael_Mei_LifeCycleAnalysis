@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Michael_Mei_LifeCycleAnalysis</string>
+    <string name="HelloString">Hello</string>
+    <string name="ButtonText">Button</string>
+</resources>
